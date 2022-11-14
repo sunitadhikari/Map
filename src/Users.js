@@ -18,6 +18,7 @@ function Users() {
         data.map((user)=>(
             <div>
                {user.name}
+               HELLO 
             </div>
         ))
       }
